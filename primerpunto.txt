@@ -1,3 +1,4 @@
 Este es el texto del primer punto txt
 
-Se adiciona una linea local
+Se borro linea
+y se creo esta linea
